@@ -3,7 +3,7 @@ import ssl
 import os
 import time
 
-SERVER_HOST = '192.168.1.7'   # CHANGE THIS to your Mac server IP
+SERVER_HOST = '127.0.0.1'   # CHANGE THIS to your Mac server IP
 SERVER_PORT = 5001
 SAVE_FOLDER = 'received'
 CHUNK_SIZE = 4096
