@@ -207,9 +207,9 @@ song1.mp3
 
 ## 👨‍💻 Contributors
 
-* Team Member 1
-* Team Member 2
-* Team Member 3
+* Krishna Jha
+* Kaushik Biradar
+* Krrish Aryan
 
 ---
 
