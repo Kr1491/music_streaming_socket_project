@@ -207,9 +207,9 @@ song1.mp3
 
 ## 👨‍💻 Contributors
 
-* Krishna Jha
-* Kaushik Biradar
 * Krrish Aryan
+* Kaushik Biradar
+* Krishna Jha
 
 ---
 
